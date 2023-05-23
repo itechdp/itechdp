@@ -6,11 +6,11 @@
 
 - 🤝 Happy to see myself as  **ML developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aksharchotaliya](https://github.com/itechdp)
+- 👨‍💻 All of my projects are available at [Dhrumil Patel (itechdp) - Github Profile](https://github.com/itechdp)
 
 - 💬 I feel greatful if i can help you in **Python Programming**
 
-- 📫 How to reach me **infodpatel5@gmail.com**
+- 📫 How to reach me **infodpatel15@gmail.com**
 
 - ⚡ Fav Quote **Predicting the future isn't magic it's Artificial intelligence.**
 
